@@ -18,8 +18,7 @@ I am **Omar Elashkar**. Currently I am pursing a PhD in Pharmaceutical Sciences 
 
 
 ## My research focus 🧪🔬
-
-I am studying the role of electrical epidural estimulation (EES) in restoring breathing functions after spinal cord injury. My main goal is to determine the effects of EES and develop computational models that will serve to understand and develop close loop stimulation paradigms.
+I’m currently working on population analysis, mainly on PK/PD data and medical images.
 
 **Previously I have worked on:**
 
