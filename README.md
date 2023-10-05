@@ -18,7 +18,7 @@ I am **Omar Elashkar**. Currently I am pursing a PhD in Pharmaceutical Sciences 
 
 
 ## My research focus 🧪🔬
-I’m currently working on population analysis, mainly on PK/PD data and medical images.
+I’m currently working on empirical modeling methods, mainly on PK/PD, ML and medical imaging.
 
 **Previously I have worked on:**
 
