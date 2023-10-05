@@ -24,13 +24,13 @@ I’m currently working on population analysis, mainly on PK/PD data and medical
 
 1. Genomic data analysis to investigate potentical molecular and cellular activities for cancer and obesity.
 
-
+<!--
 <p align="right">
   <a href="https://www.researchgate.net/profile/Omar-Elashkar">
     <img src="static/img/gs_icon.svg" width="60" height="60"/>
   </a>
 </p>
-<!--
+
 ## My research interest 
 
 
