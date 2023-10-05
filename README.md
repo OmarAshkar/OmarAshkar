@@ -30,7 +30,7 @@ I’m currently working on population analysis, mainly on PK/PD data and medical
     <img src="static/img/gs_icon.svg" width="60" height="60"/>
   </a>
 </p>
-
+<!--
 ## My research interest 
 
 
@@ -54,7 +54,7 @@ I’m currently working on population analysis, mainly on PK/PD data and medical
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a> 
 
-<!--
+
 - 🔭 I’m currently working on population analysis ranging anywhere from PK/PD data to medical images. Most of the 
 
 - 🌱 I’m currently learning ...
