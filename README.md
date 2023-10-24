@@ -5,24 +5,25 @@
 Here are some ideas to get you started:
 -->
 
-I am **Omar Elashkar**. Currently I am pursing a PhD in Pharmaceutical Sciences at the University of Florida 🐊.
+I am **Omar**. Currently, I am pursuing a PhD in Pharmaceutical Sciences at the University of Florida 🐊.
 
 
 ## Programming Languages I use the most 🧑‍💻
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![julia](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=julia&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Machine Learning Frameworks 
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+- PyTorch, scikit-learn, MONAI
 
 ## My research focus 🧪🔬
 I’m currently working on empirical modeling methods, mainly on PK/PD, ML and medical imaging.
 
 **Previously I have worked on:**
 
-1. Genomic data analysis to investigate potentical molecular and cellular activities for cancer and obesity.
+1. Genomic data analysis to investigate potential molecular and cellular activities for cancer and obesity
+2. WSI histopathology pancreatic image segmentation and analysis
+3. MRI Bone image segmentation
+4. Developing clinical trial simulation tool for Duchene muscular dystrophy (DMD)
 
 <!--
 <p align="right">
@@ -31,12 +32,13 @@ I’m currently working on empirical modeling methods, mainly on PK/PD, ML and m
   </a>
 </p>
 
+<!--
 ## My research interest 
 
 
 
-## How I arrived to Pharmacometrics 
-
+## How I arrived at Pharmacometrics 
+<!--
 <div style="background-color: #222222; text-align:justify">
 
 
